@@ -54,7 +54,10 @@
     "resources" : null,
     "assignedCustomers" : null,
     "customerId" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "919747e0-21f9-11f1-961a-6b5385e05497"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "919747e0-21f9-11f1-961a-6b5385e05497"

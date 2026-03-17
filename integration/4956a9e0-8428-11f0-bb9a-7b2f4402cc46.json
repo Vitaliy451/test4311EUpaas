@@ -134,7 +134,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 15290406
+    "version" : 15458241
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -147,7 +147,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 15290408
+    "version" : 15458242
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -173,7 +173,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 14689112
+    "version" : 15458243
   }, {
     "additionalInfo" : null,
     "from" : {

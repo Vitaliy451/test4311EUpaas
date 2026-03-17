@@ -21,7 +21,10 @@
       }
     },
     "etag" : "8f26758b5ead8e1512f3c189154bca681ed2264bd07df45be25ec27f55297cc5",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "c3216a90-1329-11f1-afb5-b19ced4e378a"
+    },
     "fileName" : "temperature",
     "id" : {
       "entityType" : "TB_RESOURCE",
