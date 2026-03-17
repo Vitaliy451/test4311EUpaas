@@ -1,7 +1,7 @@
 {
   "entityType" : "DASHBOARD",
   "entity" : {
-    "title" : "zhrh",
+    "title" : "newDash",
     "image" : null,
     "mobileHide" : false,
     "mobileOrder" : null,
@@ -10,7 +10,7 @@
       "widgets" : { },
       "states" : {
         "default" : {
-          "name" : "zhrh",
+          "name" : "newDash",
           "root" : true,
           "layouts" : {
             "main" : {
@@ -50,14 +50,14 @@
         "toolbarAlwaysOpen" : true
       }
     },
-    "name" : "zhrh",
+    "name" : "newDash",
     "resources" : null,
     "assignedCustomers" : null,
     "customerId" : null,
     "externalId" : null,
     "id" : {
       "entityType" : "DASHBOARD",
-      "id" : "919747e0-21f9-11f1-961a-6b5385e05497"
+      "id" : "cedd6d10-1244-11f1-b9f8-89c4115a0d71"
     },
     "ownerId" : null
   },

@@ -10,16 +10,22 @@
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
-      "id" : "13814000-1dd2-11b2-8080-808080808080"
+      "id" : "14c9c470-3011-11f0-8c90-21e87ff8c6cc"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ASSET",
+      "id" : "b3e16670-a439-11f0-bda8-9b2f0923971f"
+    },
     "id" : {
       "entityType" : "ASSET",
-      "id" : "8c7c84a0-21f9-11f1-961a-6b5385e05497"
+      "id" : "b3e16670-a439-11f0-bda8-9b2f0923971f"
     },
     "label" : null,
-    "name" : "he5rt",
-    "ownerId" : null,
+    "name" : "Test",
+    "ownerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "14c9c470-3011-11f0-8c90-21e87ff8c6cc"
+    },
     "type" : "default"
   },
   "relations" : [ ],

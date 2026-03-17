@@ -22,20 +22,23 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "c245bb60-f7b0-11f0-b694-81af19674741"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "88bb8500-21f9-11f1-aff8-13bb54ec8fe6"
+      "id" : "c245bb60-f7b0-11f0-b694-81af19674741"
     },
     "label" : "",
-    "name" : "szergh",
+    "name" : "secret",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "qgoEAK7ow3aaJW9nHncO",
+    "credentialsId" : "wYAXC68FfkH28MfmEpty",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,8 +49,16 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1773749105037,
+      "lastUpdateTs" : 1772019785997,
       "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1769100558381,
+      "longValue" : 1769100558380,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]

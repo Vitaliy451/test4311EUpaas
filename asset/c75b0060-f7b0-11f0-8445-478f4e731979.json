@@ -12,13 +12,16 @@
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ASSET",
+      "id" : "c75b0060-f7b0-11f0-8445-478f4e731979"
+    },
     "id" : {
       "entityType" : "ASSET",
-      "id" : "8c7c84a0-21f9-11f1-961a-6b5385e05497"
+      "id" : "c75b0060-f7b0-11f0-8445-478f4e731979"
     },
     "label" : null,
-    "name" : "he5rt",
+    "name" : "secret",
     "ownerId" : null,
     "type" : "default"
   },

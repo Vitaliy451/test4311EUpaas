@@ -2,9 +2,9 @@
   "entityType" : "DEVICE",
   "entity" : {
     "additionalInfo" : {
-      "gateway" : false,
+      "gateway" : true,
       "overwriteActivityTime" : false,
-      "description" : ""
+      "description" : "testsetsetststsetststsetstsetstestes"
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
@@ -20,22 +20,25 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
+      "id" : "fa6ccd50-f7ae-11f0-ac05-ad8ff9a222e9"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "84ba3d30-1244-11f1-b9f8-89c4115a0d71"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "88bb8500-21f9-11f1-aff8-13bb54ec8fe6"
+      "id" : "84ba3d30-1244-11f1-b9f8-89c4115a0d71"
     },
-    "label" : "",
-    "name" : "szergh",
+    "label" : "gatewayDoor",
+    "name" : "gatewayDoor",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "default"
+    "type" : "Custom Profile"
   },
   "credentials" : {
-    "credentialsId" : "qgoEAK7ow3aaJW9nHncO",
+    "credentialsId" : "1UoxRb8Z7BfCys9Ed7iT",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,8 +49,16 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1773749105037,
+      "lastUpdateTs" : 1772023269142,
       "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1772023269131,
+      "longValue" : 1772023269130,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]

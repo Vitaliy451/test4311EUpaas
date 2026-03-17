@@ -4,11 +4,11 @@
     "additionalInfo" : {
       "gateway" : false,
       "overwriteActivityTime" : false,
-      "description" : ""
+      "description" : "Test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test"
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
-      "id" : "13814000-1dd2-11b2-8080-808080808080"
+      "id" : "14c9c470-3011-11f0-8c90-21e87ff8c6cc"
     },
     "deviceData" : {
       "configuration" : {
@@ -20,22 +20,28 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
+      "id" : "aac545f0-84ce-11f0-9dcf-813811befd2b"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "eec00860-1242-11f1-8473-814ba6545685"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "88bb8500-21f9-11f1-aff8-13bb54ec8fe6"
+      "id" : "eec00860-1242-11f1-8473-814ba6545685"
     },
     "label" : "",
-    "name" : "szergh",
-    "ownerId" : null,
+    "name" : "teapot",
+    "ownerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "14c9c470-3011-11f0-8c90-21e87ff8c6cc"
+    },
     "softwareId" : null,
-    "type" : "default"
+    "type" : "thermostat"
   },
   "credentials" : {
-    "credentialsId" : "qgoEAK7ow3aaJW9nHncO",
+    "credentialsId" : "v5177x6eJhFKzfjtj6Fd",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,8 +52,16 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1773749105037,
+      "lastUpdateTs" : 1772022615697,
       "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1772022026343,
+      "longValue" : 1772022026342,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]
